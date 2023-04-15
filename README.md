@@ -24,7 +24,7 @@ Once the game is installed on your device, tap the screen to start the game and 
 - Java  
 - Android SDK
 
-## Contributing
+## Contributors
 
 - Ben Mishael ben.mishael@gmail.com
 
