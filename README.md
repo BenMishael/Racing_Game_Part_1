@@ -17,7 +17,7 @@ git clone https://github.com/BenMishael/Racing_Game_Part_1.git
 
 ## Usage
 
-Once the game is installed on your device, tap the screen to start the game and use the on-screen controls to control your car and try to avoid the other cars on the road. The game ends when you crash into another car.
+Once the game is installed on your device, tap the screen to start the game and use the on-screen controls to control your car and try to avoid the rocks on the road. The game ends when you crash into 3 rocks and starts again.
 
 ## Technologies Used
 
